@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{01958099-A748-4CAA-A13D-D08EE74C8242}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>__LibAstral</RootNamespace>
-    <AssemblyName>__LibAstral</AssemblyName>
+    <RootNamespace>LibAstral</RootNamespace>
+    <AssemblyName>LibAstral</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

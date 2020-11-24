@@ -6,7 +6,7 @@ using System.Security;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace __LibAstral
+namespace LibAstral
 {
     class Program
     {
